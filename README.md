@@ -5,3 +5,8 @@ swiggy data engineering pipepline
 🤔 How to run copy command to load CSV files into tables?
 🤔 How to design different layers & fact/dimension tables?
 🤔 How to see the KPI and data insight using Streamlit?
+
+
+stage to tables 
+tables to streams 
+stage layer to clean layer , clean to consumption layer .
