@@ -1,3 +1,5 @@
+
+//commands of creating db schemas 
 use role sysadmin ;
 create database if not exists sandbox ;
 use database sandbox ;
