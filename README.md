@@ -1,4 +1,4 @@
-# swiggy-data-pipeline
+# swiggy-end to end - data-pipeline
 swiggy data engineering pipepline
 🤔 How to load data using snowflake’s snowsight data loading feature without any tool dependency?
 🤔 How to load delta data set and let is go through the data pipeline? 🤔 How to use $ notation to query stage file?
